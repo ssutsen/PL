@@ -6,7 +6,7 @@
 
 <hr></hr>
 
-<img src="sticky-note.png"><h3>筆記區</h3>
+<img src="sticky-notes.png"><h3>筆記區</h3>
 <ul>
   <li>markdown <a href="https://www.w3schools.com/html/default.asp">語法</a>參考</li>
   <li></li>
