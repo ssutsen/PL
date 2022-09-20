@@ -6,14 +6,14 @@
 
 <hr></hr>
 
-<h3><img src="sticky-notes.png">筆記區</h3>
+<h3>筆記區</h3>
 <ul>
   <li>markdown <a href="https://www.w3schools.com/html/default.asp">語法</a>參考</li>
   <li></li>
   <li></li>
 </ul>
 
-<h3><img src="homework.png">作業區</h3>
+<h3>作業區</h3>
 <ol>
   <li><a href="https://github.com/ssutsen/PL/blob/main/week2.ipynb">
         week2 練習</a>
