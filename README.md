@@ -13,7 +13,7 @@
   <li></li>
 </ul>
 
-<img src="homework.png"><h3>作業區</h3>
+<h3><img src="homework.png">作業區</h3>
 <ol>
   <li><a href="https://github.com/ssutsen/PL/blob/main/week2.ipynb">
         week2 練習</a>
