@@ -10,7 +10,7 @@
 <ul>
   <li>markdown <a href="https://www.w3schools.com/html/default.asp">語法</a>參考</li>
   <li><a href="https://www.geeksforgeeks.org/python-programming-language/">python 指令參考</a></li>
-  <li></li>
+  <li><a hreh="https://leemeng.tw/practical-pandas-tutorial-for-aspiring-data-scientists.html">爬蟲</a></li>
 </ul>
 
 <h3>作業區</h3>
@@ -18,7 +18,8 @@
   <li><a href="https://github.com/ssutsen/PL/blob/main/week2.ipynb">
         week2 練習</a>
   </li>
-  <li></li>
+  <li><a href="https://github.com/ssutsen/PL/blob/main/week3.ipynb">
+        week3 練習</a></li>
   <li></li>
 </ol>
 
