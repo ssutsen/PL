@@ -9,7 +9,7 @@
 <h3>筆記區</h3>
 <ul>
   <li>markdown <a href="https://www.w3schools.com/html/default.asp">語法</a>參考</li>
-  <li></li>
+  <li><a href="https://www.geeksforgeeks.org/python-programming-language/">python 指令參考</a></li>
   <li></li>
 </ul>
 
