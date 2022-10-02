@@ -6,15 +6,10 @@
 
 <hr></hr>
 
-<h3>筆記區</h3>
-<ul>
-  <li>markdown <a href="https://www.w3schools.com/html/default.asp">語法</a>參考</li>
-  <li><a href="https://www.geeksforgeeks.org/python-programming-language/">python 指令參考</a></li>
-  <li><a href="https://leemeng.tw/practical-pandas-tutorial-for-aspiring-data-scientists.html">爬蟲</a></li>
-</ul>
+
 
 <h3>作業區</h3>
-<ol>
+<ul>
   <li><a href="https://github.com/ssutsen/PL/blob/main/week2.ipynb">
         week2 練習</a>
   </li>
@@ -22,6 +17,13 @@
         week3 練習</a></li>
   <li><a href="https://github.com/ssutsen/PL/blob/main/w3-hw.ipynb">
         week3 作業一</a></li>
-</ol>
+</ul>
+
+<h3>筆記區</h3>
+<ul>
+  <li>markdown <a href="https://www.w3schools.com/html/default.asp">語法</a>參考</li>
+  <li><a href="https://www.geeksforgeeks.org/python-programming-language/">python 指令參考</a></li>
+  <li><a href="https://leemeng.tw/practical-pandas-tutorial-for-aspiring-data-scientists.html">爬蟲</a></li>
+</ul>
 
 <h3>專題區</h3>
