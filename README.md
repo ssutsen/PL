@@ -30,6 +30,10 @@
   <li>markdown <a href="https://www.w3schools.com/html/default.asp">語法</a>參考</li>
   <li><a href="https://www.geeksforgeeks.org/python-programming-language/">python 指令參考</a></li>
   <li><a href="https://leemeng.tw/practical-pandas-tutorial-for-aspiring-data-scientists.html">爬蟲</a></li>
+  <li>
+      <a href="https://book.whsh.tc.edu.tw/books/python%E6%95%99%E5%AD%B8/page/pythonjson-2-youbike-20-ibike">json參考資料1</a>
+      <a href="https://www.delftstack.com/zh-tw/howto/python/python-get-json-from-url/">json參考資料2</a>
+  </li>
 </ul>
 
 <h3>專題區</h3>
