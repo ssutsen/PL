@@ -10,13 +10,19 @@
 
 <h3>作業區</h3>
 <ul>
-  <li><a href="https://github.com/ssutsen/PL/blob/main/week2.ipynb">
-        week2 練習</a>
+  <li>
+      <a href="https://github.com/ssutsen/PL/blob/main/week2.ipynb">week2 練習</a>
   </li>
-  <li><a href="https://github.com/ssutsen/PL/blob/main/week3.ipynb">
-        week3 練習</a></li>
-  <li><a href="https://github.com/ssutsen/PL/blob/main/w3-hw.ipynb">
-        week3 作業一</a></li>
+  <li>
+      <a href="https://github.com/ssutsen/PL/blob/main/week3.ipynb">week3 練習</a>
+  </li>
+  <li>
+      <a href="https://github.com/ssutsen/PL/blob/main/w3-hw.ipynb">week3 作業一</a>
+  </li>
+  <li>
+      <a href="https://github.com/ssutsen/PL/blob/main/week3-json.ipynb">json練習</a>
+  </li>
+
 </ul>
 
 <h3>筆記區</h3>
