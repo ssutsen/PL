@@ -20,7 +20,7 @@
       <a href="https://github.com/ssutsen/PL/blob/main/w3-hw.ipynb">week3 作業一</a>
   </li>
   <li>
-      <a href="https://github.com/ssutsen/PL/blob/main/week3-json.ipynb">week5 作業二</a>
+      <a href="https://github.com/ssutsen/PL/blob/main/week5-json.ipynb">week5 作業二</a>
   </li>
 
 </ul>
