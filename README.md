@@ -25,6 +25,9 @@
   <li>
     <a href="https://github.com/ssutsen/PL/blob/main/week7.ipynb">week7 作業三</a>
   </li>
+  <li>
+    <a href="https://medium.com/@babe920604/d70931fe8a2f">week9 作業四</a>
+  </li>
 
 </ul>
 
