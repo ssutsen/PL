@@ -46,6 +46,8 @@
   <li>
     <a href="https://ithelp.ithome.com.tw/articles/10202121">爬蟲參考資料1</a>、
     <a href="https://medium.com/@ethan.chen927/python-%E6%8A%93%E5%8F%96ptt%E4%B8%8A%E7%9A%84%E8%B3%87%E6%96%99%E4%B8%A6%E5%AD%98%E5%85%A5pandas-dataframe%E4%B8%AD-%E4%B8%A6%E8%BC%B8%E5%87%BA%E7%82%BA%E6%96%87%E5%AD%97%E6%AA%94-%E4%BB%A5%E5%85%AB%E5%8D%A6%E6%9D%BF%E7%82%BA%E4%BE%8B-3e291d51a723">爬蟲參考資料2</a>
+    <li> <a href="https://github.com/Hazel0301/PL/blob/main/hw_3/hw_3.ipynb">ptt爬蟲</a>(留言)
+    </li>
 </ul>
 
 <h3>專題區</h3>
